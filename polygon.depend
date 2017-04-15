@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1490383033 source:c:\users\brendan\sources\ensta\polygon\graphics.cpp
+	<gl/gl.h>
+	<gl/glu.h>
+	"lib/loader/TGALoader.h"
+	<math.h>
+	<stdio.h>
+	"inc/vec.h"
+	"scene.h"
+
+1490268414 source:c:\users\brendan\sources\ensta\polygon\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"system.h"
+
+1490254461 c:\users\brendan\sources\ensta\polygon\window.h
+
+1490362142 c:\users\brendan\sources\ensta\polygon\graphics.h
+	"inc/ray.h"
+
+1490254470 source:c:\users\brendan\sources\ensta\polygon\window.cpp
+	<windows.h>
+	<stdio.h>
+	"window.h"
+	"graphics.h"
+
+1490223335 c:\users\brendan\sources\ensta\polygon\geometry.h
+	<gl/gl.h>
+	<stdio.h>
+	<math.h>
+	"vec.h"
+
+1490185973 c:\users\brendan\sources\ensta\polygon\vec.h
+	<stdio.h>
+	<math.h>
+
+1490189807 c:\users\brendan\sources\ensta\polygon\camera.h
+	"vec.h"
+	<gl/gl.h>
+	<gl/glu.h>
+
+1490185973 c:\users\brendan\sources\ensta\polygon\inc\vec.h
+	<stdio.h>
+	<math.h>
+
+1490382992 c:\users\brendan\sources\ensta\polygon\inc\face.h
+	<gl/gl.h>
+	"vec.h"
+	"vertex.h"
+	"selectable.h"
+
+1490277686 c:\users\brendan\sources\ensta\polygon\inc\vertex.h
+	<gl/gl.h>
+	"vec.h"
+	"selectable.h"
+
+1490279469 c:\users\brendan\sources\ensta\polygon\inc\selectable.h
+	"ray.h"
+
+1490293910 c:\users\brendan\sources\ensta\polygon\inc\ray.h
+	"vec.h"
+
+1490189807 c:\users\brendan\sources\ensta\polygon\inc\camera.h
+	"vec.h"
+	<gl/gl.h>
+	<gl/glu.h>
+
+1490269147 c:\users\brendan\sources\ensta\polygon\system.h
+	<windows.h>
+
+1490383168 source:c:\users\brendan\sources\ensta\polygon\scene.cpp
+	<math.h>
+	<vector>
+	"inc/vec.h"
+	"inc/ray.h"
+	"inc/face.h"
+	"inc/vertex.h"
+	"inc/camera.h"
+	"graphics.h"
+
+1490363240 source:c:\users\brendan\sources\ensta\polygon\system.cpp
+	<windows.h>
+	<stdio.h>
+	"scene.h"
+	"system.h"
+	"graphics.h"
+
+1490306950 c:\users\brendan\sources\ensta\polygon\scene.h
+	<vector>
+	"inc/vec.h"
+	"inc/face.h"
+	"inc/vertex.h"
+	"inc/camera.h"
+	"inc/selectable.h"
+
+1294754608 c:\users\brendan\sources\ensta\polygon\lib\loader\tgaloader.h
+	<stdio.h>
+	<vector>
+	<string.h>
+
+1294754616 source:c:\users\brendan\sources\ensta\polygon\lib\loader\objloader.cpp
+	"OBJLoader.h"
+	<algorithm>
+	<stdio.h>
+	<string.h>
+
+1294754686 c:\users\brendan\sources\ensta\polygon\lib\loader\objloader.h
+	<stdio.h>
+	<vector>
+	<deque>
+	<map>
+	<string>
+	"Vec3.h"
+
+1294754600 c:\users\brendan\sources\ensta\polygon\lib\loader\vec3.h
+	"Vec3_Inline.h"
+
+1294754604 c:\users\brendan\sources\ensta\polygon\lib\loader\vec3_inline.h
+	<math.h>
+
+1294754610 source:c:\users\brendan\sources\ensta\polygon\lib\loader\tgaloader.cpp
+	"TGALoader.h"
+	<stdio.h>
+	<string.h>
+
